@@ -64,9 +64,10 @@ $result = $conn->query($sql);
                 ?>
                 </tbody>
             </table>
+            <a href="gen_route.php" class="btn btn-primary">Set Route</a>&nbsp;<a href="gen_htaccess.php" class="btn btn-warning">Set htaccess</a>
         </div>
         <h2 class="mb-5">
-            <small class="d-block kecil">Copyrights@2023, Created by : Freddy Wicaksono, M.Kom</small></h2>
+            <small class="d-block kecil" style="padding-top:20px">Copyrights@2023, Created by : Freddy Wicaksono, M.Kom</small></h2>
     </div>
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>
