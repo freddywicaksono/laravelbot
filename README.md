@@ -1,2 +1,2 @@
-# laravelbot
-## Laravel Version 10.18
+# LaravelBot
+Laravel Version 10.18.0
