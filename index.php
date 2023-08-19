@@ -64,7 +64,7 @@ $result = $conn->query($sql);
                 ?>
                 </tbody>
             </table>
-            <a href="gen_route.php" class="btn btn-primary">Set Route</a>&nbsp;<a href="gen_htaccess.php" class="btn btn-warning">Set htaccess</a>
+            <a href="gen_route.php" class="btn btn-primary" target="_blank">Set Route</a>&nbsp;<a href="gen_htaccess.php" class="btn btn-warning" target="_blank">Set htaccess</a>
         </div>
         <h2 class="mb-5">
             <small class="d-block kecil" style="padding-top:20px">Copyrights@2023, Created by : Freddy Wicaksono, M.Kom</small></h2>
